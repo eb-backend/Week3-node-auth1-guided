@@ -1,0 +1,7 @@
+Services 
+Google
+Firebase
+Auth0
+
+1. require strong password from users
+2. store password in the database
